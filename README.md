@@ -37,12 +37,6 @@ pandas
 matplotlib
 ```
 
-## Usage
-
-1. Open the Jupyter notebook: `simple-mnist-nn-from-scratch-numpy-no-tf-keras.ipynb`
-2. Run all cells to train the model
-3. The model will train for 1500 iterations and achieve ~89% accuracy
-
 ## Key Functions
 
 - `init_params()`: Initialize network weights and biases
